@@ -9,7 +9,7 @@ QueryMaster is a simple and yet another database graphical client. It is free an
 ![QueryMaster](https://i.ibb.co/6ybwWYy/animated2.gif)
 
 ## Features and Roadmap
-
+for blog post test
 - [x] Multiple query result
 - [x] Basic auto complete
 - [x] Connect to MySQL database without specified database
